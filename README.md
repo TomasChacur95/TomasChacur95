@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **projects for my Github**
 
+
 - 🌱 I’m currently learning **Flask, MySql, MongoDB, Django, PhpMyAdmin.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TomasChacur95](https://github.com/TomasChacur95)
 
 - 📫 How to reach me **tomasdatasc@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tomas-agustin-chacur-b41bb61b7/](https://www.linkedin.com/in/tomas-agustin-chacur-b41bb61b7/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
