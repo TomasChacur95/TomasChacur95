@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **projects for my Github**
 
 
-- 🌱 I’m currently learning **Flask, MySql, MongoDB, Django, PhpMyAdmin.**
+- 🌱 I’m currently learning **MySql, Django, Docker.**
 
 
 - 📫 How to reach me **tomasdatasc@gmail.com**
