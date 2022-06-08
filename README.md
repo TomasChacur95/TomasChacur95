@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomás Agustín Chacur</h1>
 <h3 align="center">A backend student and Data Science Student on UBA from Buenos Aires Argentina</h3>
 
-- 🔭 I’m currently working on **Rest APIs**
+- 🔭 I’m currently making **Rest APIs**
 
 
 - 📫 How to reach me **tomasdatasc@gmail.com**
