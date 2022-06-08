@@ -4,9 +4,6 @@
 - 🔭 I’m currently working on **Rest APIs**
 
 
-- 🌱 I’m currently learning **MySql, Django, Docker.**
-
-
 - 📫 How to reach me **tomasdatasc@gmail.com**
 
 
